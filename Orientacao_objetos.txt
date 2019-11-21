@@ -1,0 +1,36 @@
+
+
+classes - salas de aulas
+R: class e um conjunto de ATRIBUTOS e METHODO
+
+
+#VARIAVEL / ATRIBUTO ( AQUI O QUE PRECISO ARMAZENAR )
+variaveis dentro das classes ganhao recursos e por isso passam a se chamar  são atributos
+
+#FUNÇÃO / METHODO (AQUI O QUE EU PRECISO EXECUTAR)
+funçoes dentro das classes ganham recursos adiionais e passam a se chamar methodos
+
+#ENCAPSULAMENTO
+quem pode acessao ou nao (encapsulamento)
+
+
+#OBJETO (PROFESSOR QUE REPRESATA ESSA SALA ) REPRESENTA E TIRA UMA COPIA DA CLASSE  
+
+O QUE É UM OBJETO?
+R: é uma variavel que representa uma classe
+
+Exelmplo 
+
+#CLASS
+Class SQL 
+
+OBJETO
+$sql =  NEW sql
+
+
+todo esse processo e uma INSTANCIA 
+
+QUANDO UMA VARIAVEL INSTANCIA UMA CLASSS
+
+
+#INSTANCIA
